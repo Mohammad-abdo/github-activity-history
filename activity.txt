@@ -4,3 +4,4 @@
 [2021-01-01T21:13:12] Fix edge case handling in helper methods
 [2021-01-03T10:45:27] Update documentation and code comments
 [2021-01-03T18:48:29] Refactor internal utility functions
+[2021-01-03T13:04:26] Fix edge case handling in helper methods

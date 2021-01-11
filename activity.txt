@@ -49,3 +49,4 @@
 [2021-01-11T20:47:48] Minor tweak to algorithm efficiency
 [2021-01-11T13:53:54] Restructure project module files
 [2021-01-11T09:54:39] Refactor internal utility functions
+[2021-01-11T13:02:16] Fix edge case handling in helper methods

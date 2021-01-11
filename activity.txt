@@ -46,3 +46,4 @@
 [2021-01-11T19:07:38] Update documentation and code comments
 [2021-01-11T16:16:32] Fix edge case handling in helper methods
 [2021-01-11T22:31:26] Fix edge case handling in helper methods
+[2021-01-11T20:47:48] Minor tweak to algorithm efficiency

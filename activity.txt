@@ -63,3 +63,4 @@
 [2021-01-14T20:39:44] Update project dependencies and config
 [2021-01-14T11:46:19] Fix edge case handling in helper methods
 [2021-01-14T20:21:08] Minor tweak to algorithm efficiency
+[2021-01-14T10:33:50] Fix edge case handling in helper methods

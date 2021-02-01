@@ -108,3 +108,4 @@
 [2021-01-29T13:15:49] Refactor internal utility functions
 [2021-01-30T09:02:44] Minor tweak to algorithm efficiency
 [2021-01-30T17:17:24] Minor tweak to algorithm efficiency
+[2021-02-01T18:41:56] Update project dependencies and config

@@ -118,3 +118,4 @@
 [2021-02-03T10:59:38] Fix minor formatting and syntax issues
 [2021-02-04T20:26:46] Minor tweak to algorithm efficiency
 [2021-02-04T15:26:50] Update documentation and code comments
+[2021-02-04T10:43:01] Refactor internal utility functions

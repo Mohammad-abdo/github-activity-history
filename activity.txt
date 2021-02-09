@@ -128,3 +128,4 @@
 [2021-02-05T12:00:53] Fix minor formatting and syntax issues
 [2021-02-09T22:39:48] Code cleanup and style improvements
 [2021-02-09T12:38:51] Restructure project module files
+[2021-02-09T15:09:53] Fix edge case handling in helper methods

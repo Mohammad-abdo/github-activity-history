@@ -156,3 +156,4 @@
 [2021-02-19T11:20:19] Update documentation and code comments
 [2021-02-20T13:33:23] Update documentation and code comments
 [2021-02-20T11:13:15] Minor tweak to algorithm efficiency
+[2021-02-20T11:11:54] Update project dependencies and config

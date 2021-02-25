@@ -168,3 +168,4 @@
 [2021-02-25T15:25:00] Update documentation and code comments
 [2021-02-25T19:17:30] Minor tweak to algorithm efficiency
 [2021-02-25T10:52:58] Update project dependencies and config
+[2021-02-25T19:25:44] Fix minor formatting and syntax issues

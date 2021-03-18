@@ -219,3 +219,4 @@
 [2021-03-17T16:27:16] Fix minor formatting and syntax issues
 [2021-03-17T20:09:49] Refactor internal utility functions
 [2021-03-18T10:40:24] Fix edge case handling in helper methods
+[2021-03-18T15:27:42] Fix edge case handling in helper methods

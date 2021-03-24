@@ -233,3 +233,4 @@
 [2021-03-24T19:20:52] Refactor internal utility functions
 [2021-03-24T16:22:54] Fix edge case handling in helper methods
 [2021-03-24T09:07:56] Update project dependencies and config
+[2021-03-24T09:08:38] Restructure project module files

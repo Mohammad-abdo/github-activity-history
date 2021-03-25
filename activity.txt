@@ -235,3 +235,4 @@
 [2021-03-24T09:07:56] Update project dependencies and config
 [2021-03-24T09:08:38] Restructure project module files
 [2021-03-25T14:29:06] Fix minor formatting and syntax issues
+[2021-03-25T17:35:07] Fix edge case handling in helper methods

@@ -257,3 +257,4 @@
 [2021-03-31T13:18:19] Refactor internal utility functions
 [2021-03-31T09:44:11] Refactor internal utility functions
 [2021-03-31T11:51:11] Fix minor formatting and syntax issues
+[2021-04-01T20:01:24] Fix edge case handling in helper methods

@@ -304,3 +304,4 @@
 [2021-04-20T17:59:50] Restructure project module files
 [2021-04-21T13:04:41] Restructure project module files
 [2021-04-21T22:28:06] Fix edge case handling in helper methods
+[2021-04-21T19:36:55] Update documentation and code comments

@@ -398,3 +398,4 @@
 [2021-05-23T11:04:16] Update documentation and code comments
 [2021-05-24T16:28:31] Restructure project module files
 [2021-05-24T17:30:17] Restructure project module files
+[2021-05-24T19:38:25] Update project dependencies and config

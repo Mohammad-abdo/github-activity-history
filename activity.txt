@@ -429,3 +429,4 @@
 [2021-06-03T14:51:40] Refactor internal utility functions
 [2021-06-07T22:44:05] Minor tweak to algorithm efficiency
 [2021-06-07T22:57:56] Implement core logic updates
+[2021-06-07T09:15:57] Fix edge case handling in helper methods

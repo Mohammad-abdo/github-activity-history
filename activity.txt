@@ -465,3 +465,4 @@
 [2021-06-24T09:36:20] Enhance error handling and logging
 [2021-06-24T17:26:56] Refactor internal utility functions
 [2021-06-25T22:00:03] Code cleanup and style improvements
+[2021-06-25T19:19:01] Fix edge case handling in helper methods

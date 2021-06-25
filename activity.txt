@@ -468,3 +468,4 @@
 [2021-06-25T19:19:01] Fix edge case handling in helper methods
 [2021-06-25T11:05:35] Minor tweak to algorithm efficiency
 [2021-06-25T22:14:00] Update documentation and code comments
+[2021-06-25T09:45:54] Refactor internal utility functions

@@ -496,3 +496,4 @@
 [2021-07-06T16:11:51] Code cleanup and style improvements
 [2021-07-06T16:53:38] Fix edge case handling in helper methods
 [2021-07-06T14:28:09] Fix edge case handling in helper methods
+[2021-07-07T12:48:32] Restructure project module files

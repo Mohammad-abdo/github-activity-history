@@ -531,3 +531,4 @@
 [2021-07-16T20:32:02] Minor tweak to algorithm efficiency
 [2021-07-16T12:10:53] Code cleanup and style improvements
 [2021-07-16T10:10:57] Minor tweak to algorithm efficiency
+[2021-07-19T19:21:19] Restructure project module files

@@ -554,3 +554,4 @@
 [2021-08-04T14:20:55] Restructure project module files
 [2021-08-04T19:53:45] Fix edge case handling in helper methods
 [2021-08-04T18:33:37] Fix edge case handling in helper methods
+[2021-08-04T20:25:40] Refactor internal utility functions

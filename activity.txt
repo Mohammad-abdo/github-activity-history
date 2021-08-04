@@ -552,3 +552,4 @@
 [2021-08-03T19:04:51] Fix minor formatting and syntax issues
 [2021-08-03T10:25:31] Update documentation and code comments
 [2021-08-04T14:20:55] Restructure project module files
+[2021-08-04T19:53:45] Fix edge case handling in helper methods

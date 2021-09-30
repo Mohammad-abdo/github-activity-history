@@ -673,3 +673,4 @@
 [2021-09-29T20:31:00] Update documentation and code comments
 [2021-09-30T22:30:32] Implement core logic updates
 [2021-09-30T14:36:53] Restructure project module files
+[2021-09-30T13:27:27] Add test cases and assertions

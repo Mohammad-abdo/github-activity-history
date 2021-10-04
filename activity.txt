@@ -684,3 +684,4 @@
 [2021-10-04T20:12:38] Minor tweak to algorithm efficiency
 [2021-10-04T18:47:51] Minor tweak to algorithm efficiency
 [2021-10-04T09:32:56] Restructure project module files
+[2021-10-04T17:21:54] Add test cases and assertions

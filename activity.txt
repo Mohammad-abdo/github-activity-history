@@ -701,3 +701,4 @@
 [2021-10-11T19:16:10] Restructure project module files
 [2021-10-11T13:38:33] Update project dependencies and config
 [2021-10-11T22:15:47] Fix edge case handling in helper methods
+[2021-10-11T11:58:58] Add test cases and assertions

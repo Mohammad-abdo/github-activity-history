@@ -723,3 +723,4 @@
 [2021-10-19T14:54:03] Restructure project module files
 [2021-10-19T09:49:13] Fix minor formatting and syntax issues
 [2021-10-20T21:19:30] Restructure project module files
+[2021-10-20T16:34:15] Update documentation and code comments

@@ -732,3 +732,4 @@
 [2021-10-25T18:05:34] Fix minor formatting and syntax issues
 [2021-10-25T17:09:16] Restructure project module files
 [2021-10-25T18:19:01] Fix minor formatting and syntax issues
+[2021-10-27T19:41:38] Add test cases and assertions

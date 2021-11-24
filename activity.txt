@@ -803,3 +803,4 @@
 [2021-11-23T11:50:19] Restructure project module files
 [2021-11-23T18:13:26] Minor tweak to algorithm efficiency
 [2021-11-24T15:07:23] Fix edge case handling in helper methods
+[2021-11-24T16:02:26] Add test cases and assertions

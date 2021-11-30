@@ -824,3 +824,4 @@
 [2021-11-30T13:19:32] Restructure project module files
 [2021-11-30T14:52:15] Fix edge case handling in helper methods
 [2021-11-30T10:56:39] Add test cases and assertions
+[2021-11-30T13:14:26] Restructure project module files

@@ -836,3 +836,4 @@
 [2021-12-02T16:05:04] Update project dependencies and config
 [2021-12-03T13:31:01] Implement core logic updates
 [2021-12-03T11:45:35] Refactor internal utility functions
+[2021-12-03T21:57:01] Fix edge case handling in helper methods

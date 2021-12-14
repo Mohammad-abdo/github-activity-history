@@ -856,3 +856,4 @@
 [2021-12-11T10:26:49] Enhance error handling and logging
 [2021-12-11T15:54:35] Add test cases and assertions
 [2021-12-13T17:45:56] Code cleanup and style improvements
+[2021-12-14T13:40:10] Fix edge case handling in helper methods

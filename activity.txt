@@ -947,3 +947,4 @@
 [2022-01-19T09:05:13] Update documentation and code comments
 [2022-01-19T20:46:19] Enhance error handling and logging
 [2022-01-19T20:12:58] Enhance error handling and logging
+[2022-01-19T22:38:28] Refactor internal utility functions

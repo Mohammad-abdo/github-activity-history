@@ -983,3 +983,4 @@
 [2022-02-02T18:09:06] Code cleanup and style improvements
 [2022-02-03T11:06:49] Update documentation and code comments
 [2022-02-04T19:13:32] Update project dependencies and config
+[2022-02-04T17:36:43] Fix edge case handling in helper methods

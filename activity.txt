@@ -1134,3 +1134,4 @@
 [2022-04-14T12:49:59] Minor tweak to algorithm efficiency
 [2022-04-15T12:55:56] Refactor internal utility functions
 [2022-04-15T21:43:27] Update project dependencies and config
+[2022-04-15T16:30:18] Fix edge case handling in helper methods

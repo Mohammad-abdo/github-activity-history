@@ -1132,3 +1132,4 @@
 [2022-04-14T16:17:36] Update project dependencies and config
 [2022-04-14T10:25:14] Restructure project module files
 [2022-04-14T12:49:59] Minor tweak to algorithm efficiency
+[2022-04-15T12:55:56] Refactor internal utility functions

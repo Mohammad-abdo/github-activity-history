@@ -1205,3 +1205,4 @@
 [2022-05-04T15:00:15] Fix minor formatting and syntax issues
 [2022-05-04T14:56:21] Add test cases and assertions
 [2022-05-05T17:05:36] Code cleanup and style improvements
+[2022-05-06T20:52:20] Fix edge case handling in helper methods

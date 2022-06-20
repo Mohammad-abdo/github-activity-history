@@ -1308,3 +1308,4 @@
 [2022-06-19T21:03:14] Update documentation and code comments
 [2022-06-20T20:35:38] Minor tweak to algorithm efficiency
 [2022-06-20T19:49:36] Restructure project module files
+[2022-06-20T21:00:23] Update documentation and code comments

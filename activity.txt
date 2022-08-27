@@ -1439,3 +1439,4 @@
 [2022-08-26T18:15:23] Update documentation and code comments
 [2022-08-26T15:23:34] Fix minor formatting and syntax issues
 [2022-08-26T09:16:00] Minor tweak to algorithm efficiency
+[2022-08-27T11:16:45] Refactor internal utility functions

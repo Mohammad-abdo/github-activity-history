@@ -1584,3 +1584,4 @@
 [2022-10-21T11:34:48] Enhance error handling and logging
 [2022-10-24T09:01:41] Add test cases and assertions
 [2022-10-24T21:59:00] Refactor internal utility functions
+[2022-10-24T15:57:56] Fix edge case handling in helper methods

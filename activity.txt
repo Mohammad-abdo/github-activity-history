@@ -1652,3 +1652,4 @@
 [2022-11-23T12:08:53] Refactor internal utility functions
 [2022-11-23T13:05:35] Update documentation and code comments
 [2022-11-24T19:01:56] Restructure project module files
+[2022-11-26T18:44:06] Fix edge case handling in helper methods

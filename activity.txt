@@ -1712,3 +1712,4 @@
 [2022-12-20T11:42:08] Minor tweak to algorithm efficiency
 [2022-12-20T20:32:12] Fix minor formatting and syntax issues
 [2022-12-21T09:32:43] Refactor internal utility functions
+[2022-12-21T16:15:05] Fix edge case handling in helper methods

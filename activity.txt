@@ -1812,3 +1812,4 @@
 [2023-01-27T18:19:33] Code cleanup and style improvements
 [2023-01-27T15:14:27] Update documentation and code comments
 [2023-01-30T18:40:18] Code cleanup and style improvements
+[2023-01-30T15:11:54] Fix edge case handling in helper methods

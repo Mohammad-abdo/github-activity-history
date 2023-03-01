@@ -1908,3 +1908,4 @@
 [2023-03-01T16:07:33] Fix edge case handling in helper methods
 [2023-03-01T17:05:55] Restructure project module files
 [2023-03-01T11:48:08] Fix edge case handling in helper methods
+[2023-03-01T18:24:28] Refactor internal utility functions

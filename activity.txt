@@ -1972,3 +1972,4 @@
 [2023-03-30T20:27:53] Update documentation and code comments
 [2023-03-30T11:36:18] Fix minor formatting and syntax issues
 [2023-03-30T22:11:41] Code cleanup and style improvements
+[2023-03-30T12:58:15] Fix edge case handling in helper methods

@@ -2136,3 +2136,4 @@
 [2023-05-29T13:56:16] Refactor internal utility functions
 [2023-05-29T22:26:17] Update project dependencies and config
 [2023-05-29T14:00:48] Update documentation and code comments
+[2023-05-30T17:47:57] Fix edge case handling in helper methods

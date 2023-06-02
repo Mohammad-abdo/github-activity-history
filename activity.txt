@@ -2141,3 +2141,4 @@
 [2023-05-31T14:17:36] Update project dependencies and config
 [2023-05-31T15:30:27] Update project dependencies and config
 [2023-06-02T17:31:56] Add test cases and assertions
+[2023-06-02T17:05:25] Fix edge case handling in helper methods

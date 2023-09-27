@@ -2433,3 +2433,4 @@
 [2023-09-27T14:18:54] Update documentation and code comments
 [2023-09-27T10:48:06] Refactor internal utility functions
 [2023-09-27T10:54:03] Fix edge case handling in helper methods
+[2023-09-27T13:55:40] Fix edge case handling in helper methods

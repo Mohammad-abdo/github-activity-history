@@ -2500,3 +2500,4 @@
 [2023-10-25T09:37:57] Update documentation and code comments
 [2023-10-25T10:53:24] Code cleanup and style improvements
 [2023-10-26T16:42:58] Code cleanup and style improvements
+[2023-10-26T13:59:20] Fix edge case handling in helper methods

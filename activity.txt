@@ -2576,3 +2576,4 @@
 [2023-11-23T20:17:49] Code cleanup and style improvements
 [2023-11-23T13:15:19] Add test cases and assertions
 [2023-11-23T09:58:58] Add test cases and assertions
+[2023-11-23T09:16:43] Fix edge case handling in helper methods

@@ -2624,3 +2624,4 @@
 [2023-12-08T13:49:52] Restructure project module files
 [2023-12-09T22:01:28] Code cleanup and style improvements
 [2023-12-09T16:27:44] Fix minor formatting and syntax issues
+[2023-12-09T17:47:03] Fix edge case handling in helper methods

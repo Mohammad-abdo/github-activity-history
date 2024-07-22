@@ -3158,3 +3158,4 @@
 [2024-07-19T13:58:27] Minor tweak to algorithm efficiency
 [2024-07-20T17:12:08] Update project dependencies and config
 [2024-07-20T21:58:41] Update project dependencies and config
+[2024-07-22T17:32:29] Fix edge case handling in helper methods

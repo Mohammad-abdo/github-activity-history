@@ -3470,3 +3470,4 @@
 [2024-12-09T11:06:07] Refactor internal utility functions
 [2024-12-10T22:06:51] Minor tweak to algorithm efficiency
 [2024-12-10T13:14:23] Update project dependencies and config
+[2024-12-10T12:00:42] Fix edge case handling in helper methods

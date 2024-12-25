@@ -3520,3 +3520,4 @@
 [2024-12-24T16:23:46] Refactor internal utility functions
 [2024-12-24T15:43:55] Implement core logic updates
 [2024-12-24T09:54:52] Add test cases and assertions
+[2024-12-25T18:27:32] Fix edge case handling in helper methods

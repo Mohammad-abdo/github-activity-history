@@ -3792,3 +3792,4 @@
 [2025-03-25T13:08:15] Fix edge case handling in helper methods
 [2025-03-26T21:41:06] Update documentation and code comments
 [2025-03-27T13:47:08] Fix edge case handling in helper methods
+[2025-03-27T14:12:17] Refactor internal utility functions

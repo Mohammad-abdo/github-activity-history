@@ -3829,3 +3829,4 @@
 [2025-04-10T14:18:16] Code cleanup and style improvements
 [2025-04-10T19:46:11] Code cleanup and style improvements
 [2025-04-10T10:13:20] Implement core logic updates
+[2025-04-10T10:11:55] Fix edge case handling in helper methods

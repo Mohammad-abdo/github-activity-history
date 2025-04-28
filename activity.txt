@@ -3883,3 +3883,4 @@
 [2025-04-27T10:17:51] Code cleanup and style improvements
 [2025-04-28T16:06:22] Code cleanup and style improvements
 [2025-04-28T13:04:02] Update documentation and code comments
+[2025-04-28T12:55:13] Fix edge case handling in helper methods

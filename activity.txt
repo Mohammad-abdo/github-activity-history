@@ -3886,3 +3886,4 @@
 [2025-04-28T12:55:13] Fix edge case handling in helper methods
 [2025-04-29T17:29:25] Add test cases and assertions
 [2025-04-29T11:48:42] Update project dependencies and config
+[2025-04-29T20:16:54] Refactor internal utility functions

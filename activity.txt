@@ -3926,3 +3926,4 @@
 [2025-05-23T16:35:37] Fix edge case handling in helper methods
 [2025-05-25T10:29:55] Update documentation and code comments
 [2025-05-25T15:19:29] Update documentation and code comments
+[2025-05-26T12:25:24] Update project dependencies and config

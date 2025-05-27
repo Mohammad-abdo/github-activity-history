@@ -3931,3 +3931,4 @@
 [2025-05-26T11:29:58] Add test cases and assertions
 [2025-05-26T11:28:05] Enhance error handling and logging
 [2025-05-26T19:59:14] Update project dependencies and config
+[2025-05-27T12:38:17] Fix edge case handling in helper methods

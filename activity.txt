@@ -4358,3 +4358,4 @@
 [2025-11-22T17:45:23] Code cleanup and style improvements
 [2025-11-22T16:19:53] Fix edge case handling in helper methods
 [2025-11-23T21:48:48] Code cleanup and style improvements
+[2025-11-25T15:25:52] Refactor internal utility functions
